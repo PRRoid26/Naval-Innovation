@@ -1,0 +1,9 @@
+scenario,score,value_ratio,norm_distance,norm_bytes,convergence_s,leader_election_s,penalty,cap_tasks_done,cap_tasks_total,total_dist_m,total_bytes
+S1,0.2779,0.84,0.8789,0.0018,None,None,0.05,0,0,47460.0,132924
+S2,0.4302,1.0,0.5944,0.0043,None,None,0.05,0,0,32100.0,155186
+S3,0.2807,0.8333,0.84,0.0067,None,None,0.05,0,0,37800.0,121134
+S4,0.2555,0.8305,0.9631,0.001,None,None,0.05,0,0,60676.0,142260
+S5,0.2099,0.7313,0.8928,0.0016,None,None,0.05,0,0,48210.0,113594
+S6,0.2839,0.8519,0.6347,0.0015,None,None,0.1,0,0,34272.0,105982
+S7,0.2383,0.7971,0.9478,0.0019,None,None,0.05,10,14,51180.0,135102
+AVERAGE,0.2823428571428571
