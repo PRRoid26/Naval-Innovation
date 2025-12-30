@@ -1,0 +1,1 @@
+{"summary":{"scenario":"S3","value_ratio":0.9394,"norm_distance":0.4477,"norm_bytes":0.0907,"score":0.406,"convergence_s":null,"leader_election_s":null,"penalty":0.05,"cap_tasks_done":0,"cap_tasks_total":0,"total_dist_m":20145.0,"total_bytes":1633230}}
